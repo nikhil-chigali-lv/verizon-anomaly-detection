@@ -127,7 +127,7 @@ cython_debug/
 .vscode/
 
 # Data files
-*.csv
+
 *.h5
 *.hdf5
 *.parquet
